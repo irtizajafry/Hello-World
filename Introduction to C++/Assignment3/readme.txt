@@ -1,0 +1,1 @@
+This is a free cell game with all the functionalities and moves a real free cell game works on  except the one where the number of cards you can move is determined by the empty spaces in the free cell space. 

@@ -1,0 +1,10 @@
+8 7 5 6 6 4 5 6 
+9cB 3cB 7hR -   - - AhR AsB 
+ JhR JcB 8hR 7dR   QcB 2dR 6hR 9sB
+ AdR 10hR 4hR 8sB   KhR 10sB 5dR KsB
+ QhR 4dR 5hR AcB   6dR 10dR 4sB 6cB
+ 7cB 8dR 3sB 9hR   KcB 4cB 3dR 2cB
+ 8cB KdR 2hR 10cB   6sB   2sB 3hR
+ 7sB QsB   5sB   9dR     5cB
+ QdR JdR              
+ JsB                

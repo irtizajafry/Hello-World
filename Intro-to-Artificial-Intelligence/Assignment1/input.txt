@@ -1,0 +1,6 @@
+/home/irtiza/Desktop/AI/Assignment1
+/home/irtiza/Desktop/AI/Assignment1/Task1.py
+/home/irtiza/Desktop/AI/Assignment1/Task3.py
+/home/irtiza/Desktop/AI/Assignment1/input.txt
+/home/irtiza/Desktop/AI/Assignment1/Task2.py
+/home/irtiza/Desktop/AI/Assignment1/Task4.py

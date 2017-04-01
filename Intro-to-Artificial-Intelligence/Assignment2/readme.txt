@@ -1,0 +1,1 @@
+In this task, all the files were given complete except the search.py and searchAgents.py which were given partially to fill in the missing parts. I wrote the code in every place where it is written "Your Code Here " and all other portions were given as an Assignment. 

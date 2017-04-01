@@ -1,0 +1,1 @@
+For each of the tasks, the test files were given to test the files for each of the tasks (LinkedList,ArrayList,Stack and Queues mentioned in Assignment1.pdf and the cpp and header files were to be made for each of the tasks.
